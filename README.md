@@ -1,2 +1,6 @@
 # Harvest-Assistance
-My Final year project about Agriculture , which focus on providing farmer smart and accurate assistance in agriculture .
+A dynamic project to help farmer in agriculture through website ,By using images and inserting some value , this website mainly focus Fertilizer Suggestion ,Crop recommendation And Disease identifier .
+<br>
+This project is done by group of three student in final year .
+<br>
+Author -Ujjawal And Shivam
